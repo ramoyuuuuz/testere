@@ -1,0 +1,60 @@
+nom,type,annee,autonomie,puissance
+Benz Patent-Motorwagen,Tricycle,1886,25 km,0.75 ch
+Mercedes 35 HP,Voiture de course,1901,300 km,35 ch
+Mercedes Simplex 40 HP,Voiture de tourisme,1902,320 km,40 ch
+Mercedes-Benz 8/38 PS,Berline,1910,400 km,38 ch
+Mercedes-Benz 170,Berline,1931,500 km,38 ch
+Mercedes-Benz 260 D,Berline,1936,800 km,45 ch
+Mercedes-Benz 300SL,Coupé,1954,480 km,215 ch
+Mercedes-Benz 220SE,Coupé,1961,540 km,120 ch
+Mercedes-Benz 600,Berline,1963,560 km,250 ch
+Mercedes-Benz 280SE,Berline,1968,667 km,180 ch
+Mercedes-Benz W123,Berline,1976,1000 km,121 ch
+Mercedes-Benz 500E,Berline,1991,600 km,322 ch
+Mercedes-Benz SL 500,Coupé,1992,600 km,302 ch
+Mercedes-Benz S-Class W140,Berline,1991,700 km,275 ch
+Mercedes-Benz C-Class W202,Berline,1993,900 km,122 ch
+Mercedes-Benz CLK 320,Coupé,2000,650 km,218 ch
+Mercedes-Benz SLR McLaren,Coupé,2003,600 km,617 ch
+Mercedes-Benz CLS 350,Coupé,2005,800 km,272 ch
+Mercedes-Benz E-Class W212,Berline,2009,1000 km,333 ch
+Mercedes-Benz A-Class W176,Compacte,2012,1100 km,156 ch
+Mercedes-Benz CLA-Class,Berline,2013,1100 km,211 ch
+Mercedes-Benz S-Class W222,Berline,2014,1000 km,453 ch
+Mercedes-Benz AMG GT,Coupé,2015,600 km,510 ch
+Mercedes-Benz GLC 300,SUV,2016,800 km,245 ch
+Mercedes-Benz S-Class Coupe,Coupé,2018,650 km,463 ch
+Mercedes-Benz A-Class W177,Compacte,2018,1000 km,163 ch
+Mercedes-Benz EQC,SUV électrique,2019,400 km,408 ch
+Mercedes-Benz EQS,Berline électrique,2021,770 km,523 ch
+Mercedes-Benz EQB,SUV électrique,2022,420 km,288 ch
+Mercedes-Benz EQE,Berline électrique,2022,660 km,617 ch
+Mercedes-Benz G-Class,SUV,2023,800 km,416 ch
+Mercedes-Benz Maybach S-Class,Berline,2023,700 km,621 ch
+Mercedes-Benz EQV,Monospace électrique,2023,400 km,204 ch
+Mercedes-Benz SL 63 AMG,Cabriolet,2023,500 km,612 ch
+Mercedes-Benz GLE 53 AMG,SUV,2023,600 km,429 ch
+Mercedes-Benz S-Class 580,Berline,2023,750 km,496 ch
+Mercedes-Benz EQS SUV,SUV électrique,2023,600 km,536 ch
+Mercedes-Benz GLA 250,SUV,2023,650 km,221 ch
+Mercedes-Benz GLB 250,SUV,2023,600 km,221 ch
+Mercedes-Benz C-Class W206,Berline,2023,1000 km,255 ch
+Mercedes-Benz AMG GT 63,Coupé,2023,500 km,639 ch
+Mercedes-Benz G-Class 4x4²,SUV,2023,500 km,422 ch
+Mercedes-Benz SLS AMG,Coupé,2010,500 km,563 ch
+Mercedes-Benz E-Class Coupe,Coupé,2017,1000 km,362 ch
+Mercedes-Benz C-Class Cabriolet,Cabriolet,2017,800 km,245 ch
+Mercedes-Benz GLA 45 AMG,SUV,2015,500 km,376 ch
+Mercedes-Benz GLC 43 AMG,SUV,2016,550 km,385 ch
+Mercedes-Benz E-Class All-Terrain,SUV,2017,1000 km,245 ch
+Mercedes-Benz V-Class,Monospace,2014,800 km,190 ch
+Mercedes-Benz EQE 350,Berline électrique,2022,660 km,288 ch
+Mercedes-Benz A-Class Sedan,Berline,2019,1000 km,221 ch
+Mercedes-Benz GLK 350,SUV,2010,700 km,268 ch
+Mercedes-Benz CLS 53 AMG,Coupé,2018,600 km,429 ch
+Mercedes-Benz A-Class 250e,Hybride,2020,655 km,218 ch
+Mercedes-Benz B-Class 250e,Monospace hybride,2020,600 km,218 ch
+Mercedes-Benz EQB 300 4MATIC,SUV électrique,2022,420 km,288 ch
+Mercedes-Benz GLK 250,SUV,2011,800 km,204 ch
+Mercedes-Benz EQS 580 4MATIC,Berline électrique,2025,800 km,516 ch
+Mercedes-Benz EQG,SUV électrique,2025,500 km,536 ch

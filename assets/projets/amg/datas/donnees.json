@@ -1,0 +1,451 @@
+[
+  {
+    "nom": "Mercedes-AMG S 63",
+    "type": "Berline",
+    "annee": 2023,
+    "puissance": "612 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "170000  "
+  },
+  {
+    "nom": "Mercedes-AMG CLS 53",
+    "type": "Coupé",
+    "annee": 2023,
+    "puissance": "429 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "85000  "
+  },
+  {
+    "nom": "Mercedes-AMG G 63",
+    "type": "SUV",
+    "annee": 2023,
+    "puissance": "585 ch",
+    "vitesse_maximale": "240 km/h",
+    "prix": "160000  "
+  },
+  {
+    "nom": "Mercedes-AMG GT 63",
+    "type": "Coupé",
+    "annee": 2023,
+    "puissance": "639 ch",
+    "vitesse_maximale": "315 km/h",
+    "prix": "170000  "
+  },
+  {
+    "nom": "Mercedes-AMG E 53",
+    "type": "Berline",
+    "annee": 2023,
+    "puissance": "435 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "85000  "
+  },
+  {
+    "nom": "Mercedes-AMG GLE 53",
+    "type": "SUV",
+    "annee": 2023,
+    "puissance": "429 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "95000  "
+  },
+  {
+    "nom": "Mercedes-AMG C 63 S",
+    "type": "Berline",
+    "annee": 2023,
+    "puissance": "510 ch",
+    "vitesse_maximale": "290 km/h",
+    "prix": "105000  "
+  },
+  {
+    "nom": "Mercedes-AMG SL 63",
+    "type": "Cabriolet",
+    "annee": 2023,
+    "puissance": "612 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "180000  "
+  },
+  {
+    "nom": "Mercedes-AMG A 45 S",
+    "type": "Compacte",
+    "annee": 2023,
+    "puissance": "421 ch",
+    "vitesse_maximale": "270 km/h",
+    "prix": "70000  "
+  },
+  {
+    "nom": "Mercedes-AMG GLC 63 S",
+    "type": "SUV",
+    "annee": 2023,
+    "puissance": "510 ch",
+    "vitesse_maximale": "280 km/h",
+    "prix": "120000  "
+  },
+  {
+    "nom": "Mercedes-AMG S 65",
+    "type": "Berline",
+    "annee": 2023,
+    "puissance": "630 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "250000  "
+  },
+  {
+    "nom": "Mercedes-AMG G 65",
+    "type": "SUV",
+    "annee": 2023,
+    "puissance": "630 ch",
+    "vitesse_maximale": "230 km/h",
+    "prix": "250000  "
+  },
+  {
+    "nom": "Mercedes-AMG A 35",
+    "type": "Compacte",
+    "annee": 2023,
+    "puissance": "302 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "50000  "
+  },
+  {
+    "nom": "Mercedes-AMG GT 53",
+    "type": "Coupé",
+    "annee": 2023,
+    "puissance": "435 ch",
+    "vitesse_maximale": "280 km/h",
+    "prix": "130000  "
+  },
+  {
+    "nom": "Mercedes-AMG E 63 S",
+    "type": "Berline",
+    "annee": 2023,
+    "puissance": "612 ch",
+    "vitesse_maximale": "300 km/h",
+    "prix": "120000  "
+  },
+  {
+    "nom": "Mercedes-AMG GT R",
+    "type": "Coupé",
+    "annee": 2023,
+    "puissance": "577 ch",
+    "vitesse_maximale": "318 km/h",
+    "prix": "165000  "
+  },
+  {
+    "nom": "Mercedes-AMG S 63 Cabriolet",
+    "type": "Cabriolet",
+    "annee": 2023,
+    "puissance": "612 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "175000  "
+  },
+  {
+    "nom": "Mercedes-AMG C 43",
+    "type": "Coupé",
+    "annee": 2023,
+    "puissance": "385 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "80000  "
+  },
+  {
+    "nom": "Mercedes-AMG GLE 63 S",
+    "type": "SUV",
+    "annee": 2023,
+    "puissance": "603 ch",
+    "vitesse_maximale": "280 km/h",
+    "prix": "130000  "
+  },
+  {
+    "nom": "Mercedes-AMG GT Black Series",
+    "type": "Coupé",
+    "annee": 2023,
+    "puissance": "730 ch",
+    "vitesse_maximale": "325 km/h",
+    "prix": "300000  "
+  },
+  {
+    "nom": "Mercedes-AMG CLA 45 S",
+    "type": "Berline",
+    "annee": 2023,
+    "puissance": "421 ch",
+    "vitesse_maximale": "270 km/h",
+    "prix": "70000  "
+  },
+  {
+    "nom": "Mercedes-AMG A 45",
+    "type": "Compacte",
+    "annee": 2023,
+    "puissance": "421 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "70000  "
+  },
+  {
+    "nom": "Mercedes-AMG EQS 53",
+    "type": "Berline électrique",
+    "annee": 2023,
+    "puissance": "751 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "140000  "
+  },
+  {
+    "nom": "Mercedes-AMG EQB 350 4MATIC",
+    "type": "SUV électrique",
+    "annee": 2023,
+    "puissance": "288 ch",
+    "vitesse_maximale": "200 km/h",
+    "prix": "75000  "
+  },
+  {
+    "nom": "Mercedes-AMG EQG",
+    "type": "SUV électrique",
+    "annee": 2025,
+    "puissance": "536 ch",
+    "vitesse_maximale": "200 km/h",
+    "prix": "130000"
+  },
+  {
+    "nom": "Mercedes-AMG SL 55",
+    "type": "Cabriolet",
+    "annee": 2023,
+    "puissance": "469 ch",
+    "vitesse_maximale": "295 km/h",
+    "prix": "155000"
+  },
+  {
+    "nom": "Mercedes-AMG G-Class 4x4²",
+    "type": "SUV",
+    "annee": 2023,
+    "puissance": "422 ch",
+    "vitesse_maximale": "210 km/h",
+    "prix": "250000  "
+  },
+  {
+    "nom": "Mercedes-AMG GT Roadster",
+    "type": "Cabriolet",
+    "annee": 2023,
+    "puissance": "516 ch",
+    "vitesse_maximale": "315 km/h",
+    "prix": "170000  "
+  },
+  {
+    "nom": "Mercedes-AMG GLE 400d 4MATIC",
+    "type": "SUV",
+    "annee": 2023,
+    "puissance": "330 ch",
+    "vitesse_maximale": "230 km/h",
+    "prix": "80000  "
+  },
+  {
+    "nom": "Mercedes-AMG S 65 Cabriolet",
+    "type": "Cabriolet",
+    "annee": 2023,
+    "puissance": "630 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "250000 "
+  },
+  {
+    "nom": "Mercedes-AMG CLA 45",
+    "type": "Berline",
+    "annee": 2023,
+    "puissance": "387 ch",
+    "vitesse_maximale": "250 km/h",
+    "prix": "75000  "
+  },
+  {
+    "nom": "Mercedes-AMG E 63",
+    "type": "Berline",
+    "annee": 2023,
+    "puissance": "603 ch",
+    "vitesse_maximale": "300 km/h",
+    "prix": "120000  "
+  },
+    {
+      "nom": "Mercedes-AMG G 63 Edition 1",
+      "type": "SUV",
+      "annee": 2023,
+      "puissance": "585 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "170000  "
+    },
+    {
+      "nom": "Mercedes-AMG S 500 4MATIC",
+      "type": "Berline",
+      "annee": 2023,
+      "puissance": "435 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "110000  "
+    },
+    {
+      "nom": "Mercedes-AMG C 43 Cabriolet",
+      "type": "Cabriolet",
+      "annee": 2023,
+      "puissance": "390 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "85000  "
+    },
+    {
+      "nom": "Mercedes-AMG A 250 4MATIC",
+      "type": "Compacte",
+      "annee": 2023,
+      "puissance": "224 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "45000  "
+    },
+    {
+      "nom": "Mercedes-AMG CLA 35",
+      "type": "Berline",
+      "annee": 2023,
+      "puissance": "306 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "55000  "
+    },
+    {
+      "nom": "Mercedes-AMG EQS 580 4MATIC",
+      "type": "Berline électrique",
+      "annee": 2023,
+      "puissance": "516 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "135000  "
+    },
+    {
+      "nom": "Mercedes-AMG E 400d 4MATIC",
+      "type": "Berline",
+      "annee": 2023,
+      "puissance": "330 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "95000  "
+    },
+    {
+      "nom": "Mercedes-AMG GLB 35",
+      "type": "SUV",
+      "annee": 2023,
+      "puissance": "302 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "65000  "
+    },
+    {
+      "nom": "Mercedes-AMG A 45 S 4MATIC+",
+      "type": "Compacte",
+      "annee": 2023,
+      "puissance": "421 ch",
+      "vitesse_maximale": "270 km/h",
+      "prix": "72000  "
+    },
+    {
+      "nom": "Mercedes-AMG GT 43",
+      "type": "Coupé",
+      "annee": 2023,
+      "puissance": "367 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "95000  "
+    },
+    {
+      "nom": "Mercedes-AMG C 63 Coupe",
+      "type": "Coupé",
+      "annee": 2023,
+      "puissance": "510 ch",
+      "vitesse_maximale": "290 km/h",
+      "prix": "105000  "
+    },
+    {
+      "nom": "Mercedes-AMG S 65 Coupe",
+      "type": "Coupé",
+      "annee": 2023,
+      "puissance": "630 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "250000  "
+    },
+    {
+      "nom": "Mercedes-AMG G 500",
+      "type": "SUV",
+      "annee": 2023,
+      "puissance": "422 ch",
+      "vitesse_maximale": "210 km/h",
+      "prix": "120000  "
+    },
+    {
+      "nom": "Mercedes-AMG C 43 4MATIC",
+      "type": "Coupé",
+      "annee": 2023,
+      "puissance": "390 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "80000  "
+    },
+    {
+      "nom": "Mercedes-AMG S 65 Final Edition",
+      "type": "Berline",
+      "annee": 2023,
+      "puissance": "630 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "270000  "
+    },
+    {
+      "nom": "Mercedes-AMG EQB 300 4MATIC",
+      "type": "SUV électrique",
+      "annee": 2023,
+      "puissance": "225 ch",
+      "vitesse_maximale": "200 km/h",
+      "prix": "60000  "
+    },
+    {
+      "nom": "Mercedes-AMG C 63 T",
+      "type": "Break",
+      "annee": 2023,
+      "puissance": "510 ch",
+      "vitesse_maximale": "290 km/h",
+      "prix": "115000  "
+    },
+    {
+      "nom": "Mercedes-AMG GLA 45",
+      "type": "SUV",
+      "annee": 2023,
+      "puissance": "421 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "70000  "
+    },
+    {
+      "nom": "Mercedes-AMG V 300d",
+      "type": "Monospace",
+      "annee": 2023,
+      "puissance": "237 ch",
+      "vitesse_maximale": "210 km/h",
+      "prix": "55000  "
+    },
+    {
+      "nom": "Mercedes-AMG E 53 Cabriolet",
+      "type": "Cabriolet",
+      "annee": 2023,
+      "puissance": "435 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "90000  "
+    },
+    {
+      "nom": "Mercedes-AMG A 45 4MATIC",
+      "type": "Compacte",
+      "annee": 2023,
+      "puissance": "421 ch",
+      "vitesse_maximale": "270 km/h",
+      "prix": "70000  "
+    },
+    {
+      "nom": "Mercedes-AMG EQE 53",
+      "type": "Berline électrique",
+      "annee": 2023,
+      "puissance": "617 ch",
+      "vitesse_maximale": "250 km/h",
+      "prix": "125000  "
+    },
+    {
+      "nom": "Mercedes-AMG SL 43",
+      "type": "Cabriolet",
+      "annee": 2023,
+      "puissance": "390 ch",
+      "vitesse_maximale": "275 km/h",
+      "prix": "125000  "
+    },
+    {
+      "nom": "Mercedes-AMG GLC 63 Coupe",
+      "type": "SUV Coupé",
+      "annee": 2023,
+      "puissance": "510 ch",
+      "vitesse_maximale": "280 km/h",
+      "prix": "120000  "
+    }
+ ]
+ 
